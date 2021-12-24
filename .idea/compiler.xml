@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="E2ETAutomationPractice" />
+        <module name="writing-test-steps-to-console-kadirkaya28" />
       </profile>
     </annotationProcessing>
   </component>
